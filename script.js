@@ -96,7 +96,7 @@ function waitAndResponce(inputText) {
             clearChat();
             break;
         case "about":
-            sendTextMessage("🛠️💻 This portfolio website is built using HTML, CSS and JavaScript from SCRATCH!<br><br>👨🏻‍💻 Designed and Developed by <a class='alink' target='_blank' href='https:\/\/instagram.com/vinayak_patil_09/'><span class='bold'>Saravanakumar</a> with ❤️ for </span><a class='alink' target='_blank' href='https:\/\/instagram.com/vinayak_patil_09/'><span class='bold'>Sumathi</a></span>");
+            sendTextMessage("🛠️💻 This portfolio website is built using HTML, CSS and JavaScript from SCRATCH!<br><br>👨🏻‍💻 Designed and Developed by <a class='alink' target='_blank' href='https://saravanav.netlify.app'><span class='bold'>Saravanakumar</a> with ❤️ for </span><a class='alink' target='_blank' href='https://instagram.com/its_me_sumathiii'><span class='bold'>Sumathi</a></span>");
             break;
         case "contact":
             sendTextMessage(contactString);
